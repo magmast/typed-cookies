@@ -2,6 +2,8 @@
 
 A type-safe cookie management library for Next.js applications with Zod schema validation.
 
+> This library is a work in progress. The final goal is to also support cookie categories and not create specific cookies when a category is not accepted by the user.
+
 ## Features
 
 - 🔒 **Type-safe**: Full TypeScript support with type inference
